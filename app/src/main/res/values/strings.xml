@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Jetpack Navigation</string>
+    <string name="one">One</string>
+    <string name="two">Two</string>
+    <string name="three">Three</string>
+    <string name="next_1">Next 1</string>
+    <string name="next_2">Next 2</string>
+    <string name="name">Name?</string>
+</resources>
